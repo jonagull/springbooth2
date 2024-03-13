@@ -1,3 +1,3 @@
 
 This is the tutorial:
-https://www.baeldung.com/spring-boot-h2-database
+https://www.geeksforgeeks.org/easiest-way-to-create-rest-api-using-spring-boot/?ref=lbp
